@@ -11,5 +11,6 @@ public class SplitHouses {
             System.out.println("YES");
             System.out.println(s);
         }
+        sc.close();
     }
 }
